@@ -1,4 +1,4 @@
 # demo
 My project
 <br>
-Author-Tanushree Balote
+Author-Tanushree (Balote)
